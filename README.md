@@ -1,2 +1,6 @@
-# web3-wallet-template
-Created with CodeSandbox
+# CRA Tailwind Template
+
+To run this example:
+
+- `npm install` or `yarn`
+- `npm run start` or `yarn start`
